@@ -1,0 +1,11 @@
+node_modules/
+.pnpm-store/
+dist/
+/.tw-patch/
+/.env.development.local
+.DS_Store
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
